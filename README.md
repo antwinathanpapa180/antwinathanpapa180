@@ -17,7 +17,7 @@
 
 ## 🚀 Featured Public Repositories
 
-### 🔬 Computer Vision & Research
+### 👁️ Computer Vision & Real-Time Processing Systems
 * **[Surgical-Instrument-Segmentation-Research](https://github.com/antwinathanpapa180/Surgical-Instrument-Segmentation-Research)**  
   *Level 400 CS Research Paper:* Deep Learning and Multi-Scale Feature Fusion in Surgical Computer Vision.
 * **[TinyColour-App](https://github.com/antwinathanpapa180/TinyColour-App)**  
@@ -29,7 +29,7 @@
 * **[Ballistics-Kinematics-Engine](https://github.com/antwinathanpapa180/Ballistics-Kinematics-Engine)**  
   Specialized simulation engine for evaluating kinematic performance and reliability of defensive projectile systems.
 
-### 💼 Software Engineering & Enterprise Solutions
+### ⚙️ Systems Engineering & Backend Services
 * **[wells-fargo-software-engineering](https://github.com/antwinathanpapa180/-wells-fargo-software-engineering)**  
   Spring Boot backend data model for managing financial advisors, client portfolios, and securities.
 * **[forage-job-simulations](https://github.com/antwinathanpapa180/forage-job-simulations)**  
